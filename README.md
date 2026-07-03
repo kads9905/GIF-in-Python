@@ -44,6 +44,8 @@ python create_gif.py
 
 3. The generated GIF will be saved as `shrek.gif`.
 
+> **Note:** The included `shrek` folder is just an example. You can use PNG frames extracted from **any GIF** by replacing the images in the folder (or updating the folder path in the script).
+
 ## Preview
 
 ![Shrek GIF](shrek.gif)
